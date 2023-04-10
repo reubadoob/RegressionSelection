@@ -1,7 +1,7 @@
 # RegressionSelection
  This Python Script to help select a regression model based off a the R squared value. 
 
-##What Are the Types of Regression Models? 
+## What Are the Types of Regression Models? 
 
 ### Linear Regression 
 is a way to figure out how one thing is related to another thing. For example, let's say you wanted to know if there was a relationship between how much time you spend studying and how well you do on tests. You could use linear regression to figure out if there is a connection between those two things.
